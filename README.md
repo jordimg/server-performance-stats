@@ -21,5 +21,5 @@ Este script monitorea el rendimiento del servidor en tiempo real, mostrando esta
 - Actualización en tiempo real.
 
 ---
-🔗 Página del proyecto: https://github.com/TU_USUARIO/server-performance-stats
+🔗 Página del proyecto: https://github.com/jordimg/server-performance-stats
 
