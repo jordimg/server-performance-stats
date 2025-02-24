@@ -23,3 +23,4 @@ Este script monitorea el rendimiento del servidor en tiempo real, mostrando esta
 ---
 🔗 Página del proyecto: https://github.com/jordimg/server-performance-stats
 
+https://roadmap.sh/projects/server-stats
